@@ -7,7 +7,7 @@
   This repository helps users create a readme markdown quicker and easier. The only problem was that the way license is added onthe readme was hard and still can't add the license.txt file next to the readme file. Hpwever, this application can add license link and badge to the readme file.
 
   ## Table of Contents
-  -[Installation](#installation)
+  -[Installation](#installation)__
   -[Usage](#usage)
   -[Credits](#credits)
   -[License](#license)
@@ -17,6 +17,7 @@
 
   ## Usage
   clone the repo using git clone git@github.com:kanggeon123/Potential_Enigma.git
+  
 
   ## Credits
 
