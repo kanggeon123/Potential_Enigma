@@ -102,9 +102,9 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Table of Contents
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[Credits](#credits)
+  -[Installation](#installation) <br />
+  -[Usage](#usage) <br />
+  -[Credits](#credits) <br />
   -[License](#license)
 
   ## Installation
@@ -114,11 +114,11 @@ function generateMarkdown(data) {
   ${data.usage}
 
   ## Credits
-  User: ${data.github}
+  User: ${data.github} <br />
   Github: github.com/${data.github}
 
   ## License
-  ${renderLicenseLink(data.license)}
+  ${renderLicenseLink(data.license)} <br />
   ${renderLicenseSection(data.license)}
 `;
 }
