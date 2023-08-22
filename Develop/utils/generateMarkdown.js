@@ -114,6 +114,8 @@ function generateMarkdown(data) {
   ${data.usage}
 
   ## Credits
+  User: ${data.github}
+  Github: github.com/${data.github}
 
   ## License
   ${renderLicenseLink(data.license)}

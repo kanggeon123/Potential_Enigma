@@ -10,6 +10,11 @@ const questions = [
         message: 'What is the Project Title?',
     },
     {
+      type: 'input',
+      name: 'title',
+      message: 'What is your github ID?',
+    },
+    {
         type: 'input',
         name: 'description',
         message: 'What was the motivation? Why did you build this project? What problem did you solve? What did you learn?',
