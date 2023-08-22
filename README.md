@@ -3,6 +3,9 @@
   ## Badges
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+  ## Video
+  [https://drive.google.com/file/d/1y8qgjwTj_lJt6gvXQLQu6lNijwUAVigt/view]
+
   ## Description
   This repository helps users create a readme markdown quicker and easier. The only problem was that the way license is added onthe readme was hard and still can't add the license.txt file next to the readme file. Hpwever, this application can add license link and badge to the readme file.
 

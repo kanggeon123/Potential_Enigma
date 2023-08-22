@@ -98,6 +98,9 @@ function generateMarkdown(data) {
   ## Badges
   ${renderLicenseBadge(data.license)}
 
+  ## Video
+  -https://drive.google.com/file/d/1y8qgjwTj_lJt6gvXQLQu6lNijwUAVigt/view
+
   ## Description
   ${data.description}
 
@@ -119,7 +122,7 @@ function generateMarkdown(data) {
 
   ## License
   ${renderLicenseLink(data.license)} <br />
-  ${renderLicenseSection(data.license)}
+  ${renderLicenseSection(data.license)} 
 `;
 }
 
